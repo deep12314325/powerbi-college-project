@@ -121,13 +121,9 @@ The dataset includes the following fields:
 3. Use the Navigation Page to select an airline.  
 4. Explore the dashboards using filters and interactive visuals.  
 
----
 
 ## Future Enhancements
 - Predictive pricing models  
 - Integration with real‑time API data  
 - Airport‑wise dashboards  
 - Customer satisfaction metrics  
-
-
-.
