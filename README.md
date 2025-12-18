@@ -127,3 +127,4 @@ The dataset includes the following fields:
 - Integration with real‑time API data  
 - Airport‑wise dashboards  
 - Customer satisfaction metrics  
+<img width="1110" height="618" alt="image" src="https://github.com/user-attachments/assets/9ac51248-fcf9-4199-95f4-ab81a11ecd4a" />
