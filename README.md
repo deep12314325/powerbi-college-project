@@ -1,4 +1,4 @@
-<img width="1840" height="848" alt="image" src="https://github.com/user-attachments/assets/ccee5fc5-1e17-4520-a2a8-b7e91a9a751d" /># Indian Domestic Airlines Analysis – Power BI Project
+ Indian Domestic Airlines Analysis – Power BI Project
 
 ## Overview
 This repository contains a comprehensive Power BI report analyzing the performance, pricing, and route characteristics of major Indian domestic airlines. The project includes a central navigation page and six detailed dashboards, each dedicated to one airline. The analysis covers average flight time, pricing trends, route patterns, and operational metrics across the Indian aviation sector.
